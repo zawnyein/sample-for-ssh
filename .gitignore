@@ -1,1 +1,3 @@
-./main.tf
+main.tf
+main2.tf
+.gitignore
